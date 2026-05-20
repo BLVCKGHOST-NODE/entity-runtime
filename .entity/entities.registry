@@ -1,0 +1,4 @@
+entity-01 :: ACTIVE
+entity-02 :: SYNCHRONIZED
+entity-03 :: MUTATING
+entity-04 :: EXECUTING
